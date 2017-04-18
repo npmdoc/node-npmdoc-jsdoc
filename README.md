@@ -1,9 +1,14 @@
-# api documentation for  [jsdoc (v3.4.3)](https://github.com/jsdoc3/jsdoc#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsdoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsdoc.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsdoc)
+# npmdoc-jsdoc
+
+#### api documentation for  [jsdoc (v3.4.3)](https://github.com/jsdoc3/jsdoc#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsdoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsdoc.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsdoc)
+
 #### An API documentation generator for JavaScript.
 
-[![NPM](https://nodei.co/npm/jsdoc.png?downloads=true)](https://www.npmjs.com/package/jsdoc)
+[![NPM](https://nodei.co/npm/jsdoc.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jsdoc)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-jsdoc/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-jsdoc%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-jsdoc/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-jsdoc/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-jsdoc/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-jsdoc/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-jsdoc/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-jsdoc/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Michael Mathews",
-        "email": "micmath@gmail.com"
+        "name": "Michael Mathews"
     },
     "bin": {
         "jsdoc": "./jsdoc.js"
@@ -70,17 +74,14 @@
     "license": "Apache-2.0",
     "maintainers": [
         {
-            "name": "kzh",
-            "email": "kaleb@hornsby.ws"
+            "name": "kzh"
         },
         {
-            "name": "hegemonic",
-            "email": "jeffrey.l.williams@gmail.com"
+            "name": "hegemonic"
         }
     ],
     "name": "jsdoc",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jsdoc3/jsdoc.git"
@@ -92,16 +93,6 @@
     "version": "3.4.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module jsdoc](#apidoc.module.jsdoc)
-
-
-
-# <a name="apidoc.module.jsdoc"></a>[module jsdoc](#apidoc.module.jsdoc)
 
 
 
