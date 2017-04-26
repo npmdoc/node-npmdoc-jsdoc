@@ -1,6 +1,6 @@
 # npmdoc-jsdoc
 
-#### api documentation for  [jsdoc (v3.4.3)](https://github.com/jsdoc3/jsdoc#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsdoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsdoc.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsdoc)
+#### basic api documentation for  [jsdoc (v3.4.3)](https://github.com/jsdoc3/jsdoc#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsdoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsdoc.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsdoc)
 
 #### An API documentation generator for JavaScript.
 
